@@ -18,9 +18,9 @@ dan lain-lain.
 
 ##User demo:
 - Admin
-username: mulyojr
-password: qwerty
+username: \
+password: 
 
 - Customer:
-username: agungtr
-password: qwerty
+username: Mey Ndita
+password: 12345678
